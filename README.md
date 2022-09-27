@@ -1,6 +1,6 @@
 # Stephen pangga
 
-** `Information Technology student` **
+**`Information Technology student`**
 
 I'm a student from inholland haarlem, currently in the last stage of my study where im looking for an internship location to work on my thesis.
 
