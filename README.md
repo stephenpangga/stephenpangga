@@ -1,16 +1,20 @@
-# Stephen pangga
+# Stephen Pangga
 
 **`Information Technology student`**
 
 I'm a student from inholland haarlem, currently in the last stage of my study where im looking for an internship location to work on my thesis.
 
-### Language and Tools ###
+## Language and Tools i use ##
+
+### Language
+[![My Languages](https://skillicons.dev/icons?i=html,css,cs,php,java,py )](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Frameworks
+[![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,dotnet )](https://skillicons.dev)
 
 
-####  programming language
+<!-- some of the logo
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -20,7 +24,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+-->
 
 #
 
@@ -28,6 +32,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 
 #
 Year 1
+Project
 #
 Year 2
 #
