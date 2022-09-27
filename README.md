@@ -31,7 +31,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 
 #
 <details>
-### School projects and Assignment ###
+<summary> ### School projects and Assignment ### </summary>
 
 #
 #### Year 1
