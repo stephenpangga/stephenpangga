@@ -30,24 +30,26 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 -->
 
 #
-
-### School projects ###
+<details>
+### School projects and Assignment ###
 
 #
-Year 1
+#### Year 1
 NoSQL Project Someren
 Project Chapeau
 
 #
-Year 2
+#### Year 2
+PHP assigment
 Haarlem Festival
 Code Generation
 
 #
-Year 3
+#### Year 3
 Grading system
 
 #
-Year 4
+#### Year 4
+Cloud database design
 Stichting Ikwambe
 Sickle cell detection
