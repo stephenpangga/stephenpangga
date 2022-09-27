@@ -35,21 +35,21 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 
 #
 #### Year 1
-NoSQL Project Someren
-Project Chapeau
+NoSQL Project Someren <br/>
+Project Chapeau <br/>
 
 #
 #### Year 2
-PHP assigment
-Haarlem Festival
-Code Generation
+PHP assigment <br/>
+Haarlem Festival <br/>
+Code Generation <br/>
 
 #
 #### Year 3
-Grading system
+Grading system <br/>
 
 #
 #### Year 4
-Cloud database design
-Stichting Ikwambe
-Sickle cell detection
+Cloud database design <br/>
+Stichting Ikwambe <br/>
+Sickle cell detection <br/>
