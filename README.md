@@ -1,6 +1,6 @@
 # Stephen pangga
 
-** Information Technology student **
+** `Information Technology student` **
 
 I'm a student from inholland haarlem, currently in the last stage of my study where im looking for an internship location to work on my thesis.
 
@@ -16,3 +16,12 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+
+### School projects ###
+
+Year 1
+Year 2
+Year 3
+Year 4
