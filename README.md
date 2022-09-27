@@ -13,6 +13,9 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 ### Frameworks
 [![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,dotnet )](https://skillicons.dev)
 
+### Tools
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,idea,jenkins,azure)](https://skillicons.dev)
+
 
 <!-- some of the logo
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -32,10 +35,19 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 
 #
 Year 1
-Project
+NoSQL Project Someren
+Project Chapeau
+
 #
 Year 2
+Haarlem Festival
+Code Generation
+
 #
 Year 3
+Grading system
+
 #
 Year 4
+Stichting Ikwambe
+Sickle cell detection
