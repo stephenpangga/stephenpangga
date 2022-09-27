@@ -18,10 +18,15 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
+#
 
 ### School projects ###
 
+#
 Year 1
+#
 Year 2
+#
 Year 3
+#
 Year 4
