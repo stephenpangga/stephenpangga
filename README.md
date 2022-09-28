@@ -36,8 +36,13 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 #
 #### Year 1
 Project Someren <br/>
-Repository:
+Project where we implement a database scheme with an application for the school event for someren.
+Programming language and tool used: C#, MySQL, ERD
+Repository: 
+
 Project Chapeau <br/>
+Designing and creating an windows application.
+Programming language and tool: C#, windows from, MySQL database
 Repository:
 #
 #### Year 2
