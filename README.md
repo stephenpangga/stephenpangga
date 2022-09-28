@@ -34,11 +34,14 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 <summary> <h3> School projects and Assignment </h3></summary>
 
 #
+<details>
 #### Year 1
 Project Someren <br/>
 Project where we implement a database scheme with an application for the school event for someren. <br/>
 Programming language and tool used: C#, MySQL, ERD <br/>
 Repository: 
+</details>
+
 
 Project Chapeau <br/>
 Designing and creating an windows application. <br/>
