@@ -32,30 +32,34 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 
 ## School projects and Assignment 
 
-#
 <details>
 <summary> <h4> Year 1 Projects and Assignment </h4></summary>
 Project Someren <br/>
 Project where we implement a database scheme with an application for the school event for someren. <br/>
 Programming language and tool used: C#, MySQL, ERD <br/>
 Repository: 
-</details>
-
 
 Project Chapeau <br/>
 Designing and creating an windows application. <br/>
 Programming language and tool: C#, windows from, MySQL database <br/>
 Repository:
+</details>
+
 #
-#### Year 2
+<details>
+<summary> <h4> Year 2 Projects and Assignment </h4></summary>
 PHP assigment <br/>
 Repository:<br/>
+
 Haarlem Festival <br/>
 Repository:<br/>
+
 NoSQL project<br/>
 Repository:<br/>
+
 Code Generation <br/>
 Repository:<br/>
+</details>
 
 #
 #### Year 3
