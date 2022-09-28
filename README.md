@@ -35,7 +35,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 
 #
 <details>
-#### Year 1
+<summary> <h4> Year 1 Projects and Assignment </h4></summary>
 Project Someren <br/>
 Project where we implement a database scheme with an application for the school event for someren. <br/>
 Programming language and tool used: C#, MySQL, ERD <br/>
