@@ -33,32 +33,32 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 ## School projects and Assignment 
 
 <details>
-<summary> <h4> Year 1 Projects and Assignment </h4></summary>
-Project Someren <br/>
-Project where we implement a database scheme with an application for the school event for someren. <br/>
-Programming language and tool used: C#, MySQL, ERD <br/>
-Repository: 
+    <summary> <h4> Year 1 Projects and Assignment </h4></summary>
+    Project Someren <br/>
+    Project where we implement a database scheme with an application for the school event for someren. <br/>
+    Programming language and tool used: C#, MySQL, ERD <br/>
+    Repository: 
 
-Project Chapeau <br/>
-Designing and creating an windows application. <br/>
-Programming language and tool: C#, windows from, MySQL database <br/>
-Repository:
+    Project Chapeau <br/>
+    Designing and creating an windows application. <br/>
+    Programming language and tool: C#, windows from, MySQL database <br/>
+    Repository:
 </details>
 
 #
 <details>
-<summary> <h4> Year 2 Projects and Assignment </h4></summary>
-PHP assigment <br/>
-Repository:<br/>
+    <summary> <h4> Year 2 Projects and Assignment </h4></summary>
+    PHP assigment <br/>
+    Repository:<br/>
 
-Haarlem Festival <br/>
-Repository:<br/>
+    Haarlem Festival <br/>
+    Repository:<br/>
 
-NoSQL project<br/>
-Repository:<br/>
+    NoSQL project<br/>
+    Repository:<br/>
 
-Code Generation <br/>
-Repository:<br/>
+    Code Generation <br/>
+    Repository:<br/>
 </details>
 
 #
@@ -80,4 +80,4 @@ Repository:<br/>
 </details>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
-[![CV]]
+<a href="https://github.com/stephenpangga/stephenpangga/tree/main/files" title="Download CV" download>CV</a>
