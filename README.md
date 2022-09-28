@@ -50,29 +50,29 @@ Repository:
 #
 #### Year 2
 PHP assigment <br/>
-Repository:
+Repository:<br/>
 Haarlem Festival <br/>
-Repository:
-NoSQL project
-Repository:
+Repository:<br/>
+NoSQL project<br/>
+Repository:<br/>
 Code Generation <br/>
-Repository:
+Repository:<br/>
 
 #
 #### Year 3
 API Class Assignment <br/>
-Repository:
+Repository:<br/>
 Grading system <br/>
-Repository:
+Repository:<br/>
 
 #
 #### Year 4
 Cloud database design <br/>
-Repository:
+Repository:<br/>
 Stichting Ikwambe <br/>
-Repository:
+Repository:<br/>
 Sickle cell detection <br/>
-Repository:
+Repository:<br/>
 
 </details>
 
