@@ -35,21 +35,34 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 
 #
 #### Year 1
-NoSQL Project Someren <br/>
+Project Someren <br/>
+Repository:
 Project Chapeau <br/>
-
+Repository:
 #
 #### Year 2
 PHP assigment <br/>
+Repository:
 Haarlem Festival <br/>
+Repository:
+NoSQL project
+Repository:
 Code Generation <br/>
+Repository:
 
 #
 #### Year 3
+API Class Assignment <br/>
+Repository:
 Grading system <br/>
+Repository:
 
 #
 #### Year 4
 Cloud database design <br/>
+Repository:
 Stichting Ikwambe <br/>
+Repository:
 Sickle cell detection <br/>
+Repository:
+
