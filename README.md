@@ -71,4 +71,6 @@ Repository:
 Sickle cell detection <br/>
 Repository:
 
+</details>
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
