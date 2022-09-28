@@ -80,4 +80,4 @@ Repository:<br/>
 </details>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
-<a href="https://github.com/stephenpangga/stephenpangga/tree/main/files" title="Download CV" download>CV</a>
+<a href="https://github.com/stephenpangga/stephenpangga/tree/main/files" download>CV</a>
