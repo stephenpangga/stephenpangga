@@ -36,13 +36,13 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 #
 #### Year 1
 Project Someren <br/>
-Project where we implement a database scheme with an application for the school event for someren.
-Programming language and tool used: C#, MySQL, ERD
+Project where we implement a database scheme with an application for the school event for someren. <br/>
+Programming language and tool used: C#, MySQL, ERD <br/>
 Repository: 
 
 Project Chapeau <br/>
-Designing and creating an windows application.
-Programming language and tool: C#, windows from, MySQL database
+Designing and creating an windows application. <br/>
+Programming language and tool: C#, windows from, MySQL database <br/>
 Repository:
 #
 #### Year 2
@@ -71,3 +71,4 @@ Repository:
 Sickle cell detection <br/>
 Repository:
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
