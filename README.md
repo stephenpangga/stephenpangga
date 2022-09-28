@@ -29,9 +29,8 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 -->
 
-#
-<details>
-<summary> <h3> School projects and Assignment </h3></summary>
+
+## School projects and Assignment 
 
 #
 <details>
@@ -77,3 +76,4 @@ Repository:<br/>
 </details>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
+[![CV]]
