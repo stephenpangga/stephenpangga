@@ -37,28 +37,28 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
     Project Someren <br/>
     Project where we implement a database scheme with an application for the school event for someren. <br/>
     Programming language and tool used: C#, MySQL, ERD <br/>
-    Repository: 
+    Repository: <br/>
 
     Project Chapeau <br/>
     Designing and creating an windows application. <br/>
     Programming language and tool: C#, windows from, MySQL database <br/>
-    Repository:
+    Repository: <br/>
 </details>
 
 #
 <details>
     <summary> <h4> Year 2 Projects and Assignment </h4></summary>
     PHP assigment <br/>
-    Repository:<br/>
+    Repository: <br/>
 
     Haarlem Festival <br/>
-    Repository:<br/>
+    Repository: <br/>
 
     NoSQL project<br/>
-    Repository:<br/>
+    Repository: <br/>
 
     Code Generation <br/>
-    Repository:<br/>
+    Repository: <br/>
 </details>
 
 #
