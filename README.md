@@ -16,8 +16,8 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,idea,jenkins,azure)](https://skillicons.dev)
 
-#
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenpangga)]
+### Stats
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenpangga&show_icons=true&theme=dracula)
 <!-- some of the logo
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
