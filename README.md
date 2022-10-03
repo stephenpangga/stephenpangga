@@ -16,7 +16,8 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,idea,jenkins,azure)](https://skillicons.dev)
 
-
+### Stats
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenpangga&show_icons=true&theme=dracula)
 <!-- some of the logo
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -37,46 +38,50 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
     Project Someren <br/>
     Project where we implement a database scheme with an application for the school event for someren. <br/>
     Programming language and tool used: C#, MySQL, ERD <br/>
-    Repository: 
-
+    Repository: <br/>
     Project Chapeau <br/>
     Designing and creating an windows application. <br/>
     Programming language and tool: C#, windows from, MySQL database <br/>
-    Repository:
+    Repository: <br/>
 </details>
 
 #
 <details>
     <summary> <h4> Year 2 Projects and Assignment </h4></summary>
     PHP assigment <br/>
-    Repository:<br/>
-
+    Repository: https://github.com/stephenpangga/PHP2-Project <br/>
     Haarlem Festival <br/>
-    Repository:<br/>
-
+    Repository: <br/>
     NoSQL project<br/>
-    Repository:<br/>
-
+    Repository: https://github.com/stephenpangga/NoSql-Group-Project <br/>
     Code Generation <br/>
-    Repository:<br/>
+    Repository: https://github.com/stephenpangga/Project-Code-Generation-1920 <br/>
 </details>
 
 #
 #### Year 3
-API Class Assignment <br/>
-Repository:<br/>
+<detail>
+    <summary> Year 3 Assignment and project</summary>
+</details>
 Grading system <br/>
-Repository:<br/>
+Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details.
+Repository: https://github.com/stephenpangga/Java-Fundamental-End_Assignments <br/>
+API Class Assignment <br/>
+Java class assignment, learning how to make an API with spring boot.
+Programming language and tool used: Java, spring boot, swagger, h2 console
+Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
+
 
 #
 #### Year 4
 Cloud database design <br/>
-Repository:<br/>
+Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
 Stichting Ikwambe <br/>
-Repository:<br/>
+Cloud programming group project.
+Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions.
+Repository: https://github.com/NofalB/Project-Ikwambe <br/>
 Sickle cell detection <br/>
 Repository:<br/>
-
 </details>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
