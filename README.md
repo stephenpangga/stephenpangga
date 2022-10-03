@@ -67,7 +67,7 @@ Grading system <br/>
 Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details.
 Repository: https://github.com/stephenpangga/Java-Fundamental-End_Assignments <br/>
 API Class Assignment <br/>
-Java class assignment, learning how to make an API with spring boot.
+Java class assignment, learning how to make an API with spring boot.<br/>
 Programming language and tool used: Java, spring boot, swagger, h2 console
 Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 
@@ -77,12 +77,12 @@ Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 Cloud database design <br/>
 Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
 Stichting Ikwambe <br/>
-Cloud programming group project.
-Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions.
+Cloud programming group project.where we created a donation application for the city of ikwambe.
+Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions. <br/>
 Repository: https://github.com/NofalB/Project-Ikwambe <br/>
 Sickle cell detection <br/>
 Repository:<br/>
 </details>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
-<a href="https://github.com/stephenpangga/stephenpangga/raw/main/files/Stephen_pangga_CV.pdf" target="_blank" download> <span class="ec ec-arrow-down-small"></span> Download my CV here </a>
+<a href="https://github.com/stephenpangga/stephenpangga/raw/main/files/Stephen_pangga_CV.pdf" target="_blank" download> Download my CV here </a>
