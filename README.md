@@ -64,7 +64,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
     <summary> Year 3 Assignment and project</summary>
 </details>
 Grading system <br/>
-Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details.
+Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details. <br/>
 Repository: https://github.com/stephenpangga/Java-Fundamental-End_Assignments <br/>
 API Class Assignment <br/>
 Java class assignment, learning how to make an API with spring boot.<br/>
@@ -77,7 +77,7 @@ Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 Cloud database design <br/>
 Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
 Stichting Ikwambe <br/>
-Cloud programming group project.where we created a donation application for the city of ikwambe.
+Cloud programming group project.where we created a donation application for the city of ikwambe.<br/>
 Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions. <br/>
 Repository: https://github.com/NofalB/Project-Ikwambe <br/>
 Sickle cell detection <br/>
