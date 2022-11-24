@@ -82,7 +82,13 @@ Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azur
 Repository: https://github.com/NofalB/Project-Ikwambe <br/>
 Sickle cell detection <br/>
 Repository:<br/>
+
+Data mining and Statistics <br/>
+Programming language and tool used: Jupyter Notebook, Python, Python packages such as pandas, numpy, sklearn .
+Repository: https://github.com/stephenpangga/Data-mining-and-statistics/tree/week7-Recommendation_system
+<br/>
 </details>
+
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
 <a href="https://github.com/stephenpangga/stephenpangga/raw/main/files/Stephen_pangga_CV.pdf" target="_blank" download> Download my CV here </a>
