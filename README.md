@@ -69,7 +69,7 @@ Java Fundamental assignment, where we create a windows applcation where student 
 Repository: https://github.com/stephenpangga/Java-Fundamental-End_Assignments <br/>
 API Class Assignment <br/>
 Java class assignment, learning how to make an API with spring boot.<br/>
-Programming language and tool used: Java, spring boot, swagger, h2 console
+Programming language and tool used: Java, spring boot, swagger, h2 console <br/>
 Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 
 
