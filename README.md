@@ -39,6 +39,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
     Project where we implement a database scheme with an application for the school event for someren. <br/>
     Programming language and tool used: C#, MySQL, ERD <br/>
     Repository: https://github.com/stephenpangga/Project-Someren <br/>
+    
     Project Chapeau <br/>
     Designing and creating an windows application. <br/>
     Programming language and tool: C#, windows from, MySQL database <br/>
@@ -76,12 +77,15 @@ Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 #### Year 4
 Cloud database design <br/>
 Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
+<br/>
 Stichting Ikwambe <br/>
 Cloud programming group project.where we created a donation application for the city of ikwambe.<br/>
 Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions. <br/>
 Repository: https://github.com/NofalB/Project-Ikwambe <br/>
+<br/>
 Sickle cell detection <br/>
-Repository:<br/>
+Repository:https://github.com/yannick1691/Sickle-Cells-Detection
+<br/>
 
 Data mining and Statistics <br/>
 Programming language and tool used: Jupyter Notebook, Python, Python packages such as pandas, numpy, sklearn .
