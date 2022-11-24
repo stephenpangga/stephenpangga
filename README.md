@@ -89,6 +89,11 @@ Cloud programming group project.where we created a donation application for the 
 Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions. <br/>
 Repository: https://github.com/NofalB/Project-Ikwambe <br/>
 <br/>
+
+Computer Vision <br/>
+Test tube image recognition where i use Machine learning to train and make the AI predict the test tube images.<br/>
+Repository: https://github.com/stephenpangga/Computer-Vision-final-assignment <br/>
+
 Sickle cell detection <br/>
 Repository:https://github.com/yannick1691/Sickle-Cells-Detection
 <br/>
