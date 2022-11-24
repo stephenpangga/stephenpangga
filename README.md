@@ -43,7 +43,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
     Project Chapeau <br/>
     Designing and creating an windows application. <br/>
     Programming language and tool: C#, windows from, MySQL database <br/>
-    Repository: <br/>
+    Repository: https://github.com/stephenpangga/Project-Chapeau <br/>
 </details>
 
 #
