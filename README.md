@@ -80,8 +80,8 @@ Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
 <br/>
 
 ServerLess Programming Assignment
-Where a made a simple API where i request an image containing weather reports of the cities from the netherlands.<br/>
-Programming language and tools:  C#, Azure DevOps, Azure funtions.<br/>
+Where a made a simple API where i request an image containing weather reports of the cities from the netherlands. <br/>
+Programming language and tools:  C#, Azure DevOps, Azure funtions. <br/>
 Repository: https://github.com/stephenpangga/ServerlessProgrammingAssignment <br/>
 
 Stichting Ikwambe <br/>
