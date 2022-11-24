@@ -76,24 +76,20 @@ Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 #
 #### Year 4
 Cloud database design <br/>
+Redesigning an online shop using Cloud technologies and Azure functions.
 Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
 <br/>
-
 ServerLess Programming Assignment
 Where a made a simple API where i request an image containing weather reports of the cities from the netherlands. <br/>
 Programming language and tools:  C#, Azure DevOps, Azure funtions. <br/>
 Repository: https://github.com/stephenpangga/ServerlessProgrammingAssignment <br/>
-
 Stichting Ikwambe <br/>
 Cloud programming group project.where we created a donation application for the city of ikwambe.<br/>
 Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions. <br/>
 Repository: https://github.com/NofalB/Project-Ikwambe <br/>
-<br/>
-
 Computer Vision <br/>
 Test tube image recognition where i use Machine learning to train and make the AI predict the test tube images.<br/>
 Repository: https://github.com/stephenpangga/Computer-Vision-final-assignment <br/>
-
 Sickle cell detection <br/>
 Repository:https://github.com/yannick1691/Sickle-Cells-Detection
 <br/>
@@ -103,7 +99,6 @@ Programming language and tool used: Jupyter Notebook, Python, Python packages su
 Repository: https://github.com/stephenpangga/Data-mining-and-statistics/tree/week7-Recommendation_system
 <br/>
 </details>
-
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stephen-pangga/)
 <a href="https://github.com/stephenpangga/stephenpangga/raw/main/files/Stephen_pangga_CV.pdf" target="_blank" download> Download my CV here </a>
