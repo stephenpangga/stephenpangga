@@ -38,8 +38,8 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
     Project Someren <br/>
     Project where we implement a database scheme with an application for the school event for someren. <br/>
     Programming language and tool used: C#, MySQL, ERD <br/>
-    Repository: https://github.com/stephenpangga/Project-Someren <br/>
-    
+    Repository: https://github.com/stephenpangga/Project-Someren 
+    <br/>
     Project Chapeau <br/>
     Designing and creating an windows application. <br/>
     Programming language and tool: C#, windows from, MySQL database <br/>
