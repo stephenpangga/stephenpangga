@@ -1,11 +1,12 @@
 Hi, I'm Stephen! 👋
+<br/>
 Software Developer | Tech Enthusiast | Gamer
 
 I am currently a software developer at Sentinel-it, where I work on designing, developing, and deploying scalable solutions. Passionate about coding, solving complex problems, and continuous learning. I enjoy building applications that improve user experience and make a real-world impact.
 
 
 ## My Tech Stack
-[![My Tech Stack](https://skillicons.dev/icons?i=angular,cs,dotnet,ts,nextjs,mysql,azure)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=angular,cs,dotnet,ts,nextjs,mysql,azure )](https://skillicons.dev)
 
 ## Language and Tools i use ##
 
@@ -65,7 +66,6 @@ I am currently a software developer at Sentinel-it, where I work on designing, d
 #
 <detail>
     <summary> <h4> Year 3 Assignment and project </h4></summary>
-</details>
 Grading system <br/>
 Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details. <br/>
 Repository: https://github.com/stephenpangga/Java-Fundamental-End_Assignments <br/>
@@ -74,12 +74,12 @@ API Class Assignment <br/>
 Java class assignment, learning how to make an API with spring boot.<br/>
 Programming language and tool used: Java, spring boot, swagger, h2 console <br/>
 Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
+</details>
 
 
 #
 <detail>
     <summary> <h4> Year 4 Assignment and project </h4></summary>
-</details>
 Cloud database design <br/>
 Redesigning an online shop using Cloud technologies and Azure functions. <br/>
 Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
@@ -104,3 +104,4 @@ Repository:https://github.com/yannick1691/Sickle-Cells-Detection<br/>
 Data mining and Statistics <br/>
 Programming language and tool used: Jupyter Notebook, Python, Python packages such as pandas, numpy, sklearn .
 Repository: https://github.com/stephenpangga/Data-mining-and-statistics/tree/week7-Recommendation_system <br/>
+</details>
