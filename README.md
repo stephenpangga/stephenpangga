@@ -13,11 +13,11 @@ I am a software developer at Sentinel-IT, where I design, develop, and deploy sc
 ## Language and Tools I use ##
 
 ### Language
-[![My Languages](https://skillicons.dev/icons?i=html,css,cs,php,java,py )](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,cs,php,java,py,ts,sql )](https://skillicons.dev)
 
 
 ### Frameworks
-[![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,dotnet )](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=spring,laravel,dotnet,angular,nextjs )](https://skillicons.dev)
 
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,idea,jenkins,azure)](https://skillicons.dev)
