@@ -3,14 +3,14 @@ Hi, I'm Stephen! 👋
 
 Software Developer | Tech Enthusiast | Gamer
 
-I am currently a software developer at Sentinel-it, where I work on designing, developing, and deploying scalable solutions. Passionate about coding, solving complex problems, and continuous learning. I enjoy building applications that improve user experience and make a real-world impact.
+I am a software developer at Sentinel-IT, where I design, develop, and deploy scalable solutions. I am passionate about coding, solving complex problems, and continuous learning. I enjoy building applications that improve user experience and make a real-world impact.
 
 
 ## My Tech Stack
 
-[![My Tech Stack](https://skillicons.dev/icons?i=angular,cs,dotnet,ts,nextjs,mysql,azure )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,cs,dotnet,ts,nextjs,mysql,azure )](https://skillicons.dev)
 
-## Language and Tools i use ##
+## Language and Tools I use ##
 
 ### Language
 [![My Languages](https://skillicons.dev/icons?i=html,css,cs,php,java,py )](https://skillicons.dev)
