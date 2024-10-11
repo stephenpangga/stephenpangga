@@ -1,11 +1,13 @@
 Hi, I'm Stephen! 👋
-<br/>
+
+
 Software Developer | Tech Enthusiast | Gamer
 
 I am currently a software developer at Sentinel-it, where I work on designing, developing, and deploying scalable solutions. Passionate about coding, solving complex problems, and continuous learning. I enjoy building applications that improve user experience and make a real-world impact.
 
 
 ## My Tech Stack
+
 [![My Tech Stack](https://skillicons.dev/icons?i=angular,cs,dotnet,ts,nextjs,mysql,azure )](https://skillicons.dev)
 
 ## Language and Tools i use ##
@@ -66,42 +68,42 @@ I am currently a software developer at Sentinel-it, where I work on designing, d
 #
 <detail>
     <summary> <h4> Year 3 Assignment and project </h4></summary>
-Grading system <br/>
-Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details. <br/>
-Repository: https://github.com/stephenpangga/Java-Fundamental-End_Assignments <br/>
+    Grading system <br/>
+    Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details. <br/>
+    Repository: https://github.com/stephenpangga/Java-Fundamental-End_Assignments <br/>
 
-API Class Assignment <br/>
-Java class assignment, learning how to make an API with spring boot.<br/>
-Programming language and tool used: Java, spring boot, swagger, h2 console <br/>
-Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
+    API Class Assignment <br/>
+    Java class assignment, learning how to make an API with spring boot.<br/>
+    Programming language and tool used: Java, spring boot, swagger, h2 console <br/>
+    Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 </details>
 
 
 #
 <detail>
     <summary> <h4> Year 4 Assignment and project </h4></summary>
-Cloud database design <br/>
-Redesigning an online shop using Cloud technologies and Azure functions. <br/>
-Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
+    Cloud database design <br/>
+    Redesigning an online shop using Cloud technologies and Azure functions. <br/>
+    Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
 
-ServerLess Programming Assignment <br/>
-Where a made a simple API where i request an image containing weather reports of the cities from the netherlands. <br/>
-Programming language and tools:  C#, Azure DevOps, Azure funtions. <br/>
-Repository: https://github.com/stephenpangga/ServerlessProgrammingAssignment <br/>
+    ServerLess Programming Assignment <br/>
+    Where a made a simple API where i request an image containing weather reports of the cities from the netherlands. <br/>
+    Programming language and tools:  C#, Azure DevOps, Azure funtions. <br/>
+    Repository: https://github.com/stephenpangga/ServerlessProgrammingAssignment <br/>
 
-Stichting Ikwambe <br/>
-Cloud programming group project.where we created a donation application for the city of ikwambe.<br/>
-Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions. <br/>
-Repository: https://github.com/NofalB/Project-Ikwambe <br/>
+    Stichting Ikwambe <br/>
+    Cloud programming group project.where we created a donation application for the city of ikwambe.<br/>
+    Programming language and tool used: C#, OpenAPI, Swagger, Entity Framework, Azure DevOps, Azure funtions. <br/>
+    Repository: https://github.com/NofalB/Project-Ikwambe <br/>
 
-Computer Vision <br/>
-Test tube image recognition where i use Machine learning to train and make the AI predict the test tube images.<br/>
-Repository: https://github.com/stephenpangga/Computer-Vision-final-assignment <br/>
+    Computer Vision <br/>
+    Test tube image recognition where i use Machine learning to train and make the AI predict the test tube images.<br/>
+    Repository: https://github.com/stephenpangga/Computer-Vision-final-assignment <br/>
 
-Sickle cell detection <br/>
-Repository:https://github.com/yannick1691/Sickle-Cells-Detection<br/>
+    Sickle cell detection <br/>
+    Repository:https://github.com/yannick1691/Sickle-Cells-Detection<br/>
 
-Data mining and Statistics <br/>
-Programming language and tool used: Jupyter Notebook, Python, Python packages such as pandas, numpy, sklearn .
-Repository: https://github.com/stephenpangga/Data-mining-and-statistics/tree/week7-Recommendation_system <br/>
+    Data mining and Statistics <br/>
+    Programming language and tool used: Jupyter Notebook, Python, Python packages such as pandas, numpy, sklearn .
+    Repository: https://github.com/stephenpangga/Data-mining-and-statistics/tree/week7-Recommendation_system <br/>
 </details>
