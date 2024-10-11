@@ -66,7 +66,7 @@ I am a software developer at Sentinel-IT, where I design, develop, and deploy sc
 </details>
 
 #
-<detail>
+<details>
     <summary> <h4> Year 3 Assignment and project </h4></summary>
     Grading system <br/>
     Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details. <br/>
@@ -79,7 +79,7 @@ I am a software developer at Sentinel-IT, where I design, develop, and deploy sc
 
 
 #
-<detail>
+<details>
     <summary> <h4> Year 4 Assignment and project </h4></summary>
     Cloud database design <br/>
     Redesigning an online shop using Cloud technologies and Azure functions. <br/>
