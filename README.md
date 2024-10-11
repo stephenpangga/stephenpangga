@@ -1,8 +1,11 @@
-# Stephen Pangga
+Hi, I'm Stephen! 👋
+Software Developer | Tech Enthusiast | Gamer
 
-**`Information Technology student`**
+I am currently a software developer at Sentinel-it, where I work on designing, developing, and deploying scalable solutions. Passionate about coding, solving complex problems, and continuous learning. I enjoy building applications that improve user experience and make a real-world impact.
 
-I'm a student from inholland haarlem, currently in the last stage of my study where im looking for an internship location to work on my thesis.
+
+## My Tech Stack
+[![My Tech Stack](https://skillicons.dev/icons?i=angular,cs,dotnet,ts,nextjs,mysql,azure)](https://skillicons.dev)
 
 ## Language and Tools i use ##
 
@@ -31,7 +34,7 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 -->
 
 
-## School projects and Assignment 
+## School projects and Assignment worked on during my bachelors degree
 
 <details>
     <summary> <h4> Year 1 Projects and Assignment </h4></summary>
@@ -60,9 +63,8 @@ I'm a student from inholland haarlem, currently in the last stage of my study wh
 </details>
 
 #
-#### Year 3
 <detail>
-    <summary> Year 3 Assignment and project</summary>
+    <summary> <h4> Year 3 Assignment and project </h4></summary>
 </details>
 Grading system <br/>
 Java Fundamental assignment, where we create a windows applcation where student and teacher can look up information and store student details. <br/>
@@ -75,7 +77,9 @@ Repository: https://github.com/stephenpangga/my-first-api-gundam.iml <br/>
 
 
 #
-#### Year 4
+<detail>
+    <summary> <h4> Year 4 Assignment and project </h4></summary>
+</details>
 Cloud database design <br/>
 Redesigning an online shop using Cloud technologies and Azure functions. <br/>
 Repository: https://github.com/stephenpangga/CloudDatabaseAssignment <br/>
@@ -100,4 +104,3 @@ Repository:https://github.com/yannick1691/Sickle-Cells-Detection<br/>
 Data mining and Statistics <br/>
 Programming language and tool used: Jupyter Notebook, Python, Python packages such as pandas, numpy, sklearn .
 Repository: https://github.com/stephenpangga/Data-mining-and-statistics/tree/week7-Recommendation_system <br/>
-</details>
